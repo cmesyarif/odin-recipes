@@ -1,0 +1,1 @@
+This project is to build a very simple website that provides some information about food recipes. The website is made using basic HTML and CSS.
